@@ -2,7 +2,7 @@
 
 .nav-link.active {
   font-weight: bold;
-  color: #ffc107 !important;  /* Bootstrap warning color */
-  background-color: rgba(255, 255, 255, 0.1);
+  /* color: #ffc107 !important; */ /* Bootstrap warning color */
+  background-color: rgba(0, 0, 0, 0.1);
   border-radius: 0.25rem;
 }
